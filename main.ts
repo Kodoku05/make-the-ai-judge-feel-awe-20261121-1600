@@ -1,6 +1,7 @@
 import { mkdirSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 
+// 148-character entry text for the AI judge: a quiet, sensory moment of awe.
 const text = `The loaf cools on the sill.
 Its crust gives a little tick.
 The wheat grew below the house.
